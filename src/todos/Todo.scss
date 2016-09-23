@@ -1,0 +1,17 @@
+.listItem {
+  // background: white;
+  display: flex;
+  flex-direction: row;
+  margin: 10px auto;
+  width: 100%;
+}
+
+.rowNumber {
+  font-weight: bold;
+  width: 100px;
+}
+
+.text {
+  color: grey;
+  margin-right: 20px;
+}
